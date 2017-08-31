@@ -1,0 +1,13 @@
+title: Hello, world!
+description: Defines 'hello world' which prints "Hello, world!"
+version: 0.1.0
+
+tags:
+  - test
+  - useless
+
+authors:
+  - Zac Garby <me@zacgarby.co.uk>
+
+sources:
+  - "*.pluto"
