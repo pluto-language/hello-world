@@ -1,6 +1,7 @@
 title: Hello, world!
 description: Defines 'hello world' which prints "Hello, world!"
 version: 0.1.0
+repository: https://github.com/pluto-language/hello-world
 
 tags:
   - test
